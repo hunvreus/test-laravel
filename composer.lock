@@ -1,0 +1,20 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "placeholderhash",
+    "packages": [
+        {
+            "name": "laravel/framework",
+            "version": "v11.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/laravel/framework.git",
+                "reference": "placeholder"
+            }
+        }
+    ],
+    "packages-dev": []
+}
